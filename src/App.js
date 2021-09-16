@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          esta es una app para aprender a usar Git v1.0
+          esta es una app para aprender a usar Git v1.0 de Santiago.
         </p>
         <a
           className="App-link"
